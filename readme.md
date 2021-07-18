@@ -5,6 +5,6 @@ Implemeted the Encoder-Decoder mechanism of Image Captioning using Attention Mec
 - Decoder is implemented using GRU.
 - Model training checkpoints can be found [here](https://drive.google.com/drive/folders/1UcFkHRi06Qda4IFq9Y8K63zzZwh1FcXd?usp=sharing).
 
-The model obtained an average BLEU score of 0.561036 on the validation data of 7000 captions.
+The model obtained an average ***BLEU score of 0.561036*** on the validation data of 7000 captions.
 
 - Developed by [Nazish Khan](https://github.com/nazuk27)
